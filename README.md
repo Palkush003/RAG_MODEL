@@ -27,8 +27,8 @@ A best-in-class Retrieval-Augmented Generation (RAG) chatbot for answering quest
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/neurific-ai-rag-chatbot.git
-cd neurific-ai-rag-chatbot
+git clone https://github.com/Palkush003/RAG_MODEL.git
+cd Internship
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
