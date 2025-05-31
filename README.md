@@ -1,6 +1,4 @@
-
-
-#🤖 Neurific AI RAG Chatbot
+### 🤖 Neurific AI RAG Chatbot
 
 A best-in-class Retrieval-Augmented Generation (RAG) chatbot for answering questions about Long Short-Term Memory (LSTM) networks, featuring beautiful mathematical formula rendering, authoritative sources, and a modern Streamlit web UI.
 
