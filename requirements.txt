@@ -1,0 +1,45 @@
+# Enhanced RAG Chatbot - Requirements (Python 3.11+ Compatible)
+# All components are FREE and open-source!
+
+# Core Framework - Updated for compatibility
+langchain==0.1.17
+langchain-community>=0.0.38
+langchain-core>=0.1.52
+
+# Free Local LLM
+ollama>=0.2.0
+
+# Free Embeddings - Updated for stability
+sentence-transformers>=2.7.0
+
+# Free Vector Database - Updated version
+chromadb>=0.4.24
+
+# Document Processing (Free)
+PyPDF2>=3.0.1
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+
+# Utilities - Updated for Python 3.12+ compatibility
+typing-extensions>=4.9.0
+numpy>=1.26.0
+
+# Deep Learning Backend
+torch>=2.1.0
+transformers>=4.36.0
+
+# Performance and caching
+redis>=5.0.0
+scikit-learn>=1.3.0
+
+# Optional: For better PDF processing
+pdfplumber>=0.10.0
+
+# Optional: For web interface
+streamlit>=1.32.0
+gradio>=4.0.0
+
+SpeechRecognition
+pyaudio
+gTTS
+Pillow
